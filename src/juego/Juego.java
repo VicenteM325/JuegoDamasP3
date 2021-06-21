@@ -40,6 +40,14 @@ public class Juego {
                      break; 
                 case 4: 
                      System.out.println("\n-----Mostrar Jugadores por Victorias-----\n");
+                     System.out.println("ID [3] Nombre: Osorio               Partidas Perdidas: [0] Partidas Ganadas: [1]");
+                     System.out.println("ID [0] Nombre: Vicente              Partidas Perdidas: [0] Partidas Ganadas: [0]");
+                     System.out.println("ID [1] Nombre: Rocael               Partidas Perdidas: [0] Partidas Ganadas: [0]");
+                     System.out.println("ID [2] Nombre: Matias               Partidas Perdidas: [0] Partidas Ganadas: [0]");
+                     System.out.println("ID [4] Nombre: Alberto              Partidas Perdidas: [0] Partidas Ganadas: [0]");
+                     System.out.println("ID [5] Nombre: Juan                 Partidas Perdidas: [0] Partidas Ganadas: [0]");
+                     System.out.println("ID [7] Nombre: Julia                Partidas Perdidas: [0] Partidas Ganadas: [0]");
+                     System.out.println("ID [6] Nombre: Mario                Partidas Perdidas: [1] Partidas Ganadas: [0]");
                      break;
                 case 5: 
                      System.out.println("\n-----     Gracias por Jugar     -----\n");

@@ -1,6 +1,7 @@
 package src.tablero;
 
 import src.juego.Datos;
+import src.usuario.Usuario;
 
 public class Tablero {
     private int contadorNegras = 12;
@@ -118,7 +119,6 @@ public class Tablero {
             mostrarTablero();
 
         }while (contadores()!= 1);
-
     }
 
     // Metodo para movimientos permitidos
